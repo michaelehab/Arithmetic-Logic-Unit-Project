@@ -59,4 +59,8 @@ For example: +2%+3 =+2, +2%-3 =+2, -2%+3=-2, -2%-3=-2
 
 ![Integration Circuit](https://github.com/michaelehab/Arithmetic-Logic-Unit-Project/blob/main/img/integration.jpg)
 
-Note : We used the <a href="https://github.com/marceloboeira/logisim-7-segment-display-driver">logisim-7-segment-display-driver by marceloboeira</a>
+## 🎉Finally Here's a celebration image!
+
+<img alt="Michael Ehab with the working project" src="https://github.com/michaelehab/Arithmetic-Logic-Unit-Project/blob/main/img/20220105_114149.jpg" width=400/>
+
+Note : We used the <a href="https://github.com/marceloboeira/logisim-7-segment-display-driver">logisim-7-segment-display-driver by marceloboeira</a> during the simulation.
