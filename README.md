@@ -1,4 +1,4 @@
-# Arithmetic-Logic-Unit-Project
+# Arithmetic Logic Unit Project - Fall 2021
 In this project, we designed and implemented an arithmetic unit that is capable of adding, subtracting and multiplying two signed numbers, and displays the result of the operation performed along with some additional flags regarding the operation and the result.
 
 ![Diagram](https://github.com/michaelehab/Arithmetic-Logic-Unit-Project/blob/main/img/project.jpg)
